@@ -4,7 +4,7 @@ A home lab project setting up Wazuh (open-source SIEM/XDR) to learn security mon
 
 ## 🎯 Goal
 
-Build a working SIEM environment to practice the skills used in SOC analyst roles - log ingestion, alerting, and incident triage — as part of my transition into cybersecurity.
+Build a working SIEM environment to practice the skills used in SOC analyst roles - log ingestion, alerting, and incident triage - as part of my transition into cybersecurity.
 
 ## 🖥️ Environment
 
